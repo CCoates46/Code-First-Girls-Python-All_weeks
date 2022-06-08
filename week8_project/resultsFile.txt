@@ -1,0 +1,4 @@
+(0, 'Opponent Wins')
+(1, 'Draw')
+(2, 'Player Wins')
+(3, 'Player Wins')

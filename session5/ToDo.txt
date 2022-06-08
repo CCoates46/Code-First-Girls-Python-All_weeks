@@ -1,0 +1,6 @@
+
+Learn PYthon
+Learn Javascript
+Learn typsescript
+Learn API's
+csv files
